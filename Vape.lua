@@ -1,3 +1,5 @@
+--Made By dawid#7205
+
 local lib = {
 	RainbowColorValue = 0,
 	HueSelectionPosition = 0
